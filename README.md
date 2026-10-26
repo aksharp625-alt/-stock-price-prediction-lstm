@@ -62,8 +62,8 @@ The script also prints a forecast for the next trading day.
 
 | Model | RMSE | MAE | MAPE (%) | R² | Directional Acc. (%) |
 | --- | --- | --- | --- | --- | --- |
-| Stacked LSTM | – | – | – | – | – |
-| Naive baseline | – | – | – | – | – |
+| Stacked LSTM | 4.62 | 3.41 | 1.63 | 0.962 | 50.8 |
+| Naive baseline | 3.48 | 2.53 | 1.21 | 0.978 | 0.4* |
 
 ## Authors
 
